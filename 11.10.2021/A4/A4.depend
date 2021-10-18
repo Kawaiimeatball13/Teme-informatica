@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634040668 source:c:\mihu\mihu ^3^\informatica\11.10.2021\tema\a4\main.cpp
+	<iostream>
+	<fstream>
+
